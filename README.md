@@ -1,6 +1,6 @@
 # Predicting-the-Premier-League-Table-Using-Multiple-Regression
 In this project we develop a multiple regression model to attempt to predict the final standings of the premier league table.
-A more in depth report can be found on my LinkedIn page in the projects section [here](www.linkedin.com/in/aaron-moorey-065302297).
+A more in depth report can be found on my LinkedIn page in the projects section here www.linkedin.com/in/aaron-moorey-065302297
 
 ## Description of what the code does
 We first begin by checking for multicollinearity in the data by looking at each variables VIF values and removing the variables which have VIFs larger than 10.
